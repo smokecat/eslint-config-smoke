@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-smoke",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Smoke's eslint config.",
   "main": "index.js",
   "files": [
