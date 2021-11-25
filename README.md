@@ -1,6 +1,6 @@
 # eslint-config-smoke
 
-## usage
+## Usage
 
 Install dependency
 
