@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "login": "npm --registry https://registry.npmjs.org login",
     "whoami": "npm --registry https://registry.npmjs.org whoami",
-    "publish": "npm --registry https://registry.npmjs.org publish"
+    "pub": "npm --registry https://registry.npmjs.org publish"
   },
   "repository": {
     "type": "git",
