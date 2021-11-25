@@ -11,7 +11,7 @@ module.exports = {
   env: {
     node: true,
     jest: true,
-    es2020: true,
+    es2021: true,
   },
   rules: {
     '@typescript-eslint/interface-name-prefix': 'off',
